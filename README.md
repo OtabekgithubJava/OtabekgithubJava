@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OtabekgithubJava
+- 👋 Hi, I’m Otabek Melikuziev (@OtabekgithubJava)
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on AI and so-called language learning projects
