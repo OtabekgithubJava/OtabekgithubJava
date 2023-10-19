@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Otabek Melikuziev (@OtabekgithubJava)
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning GOLANG
 - 💞️ I’m looking to collaborate on AI and so-called language learning projects
 - 📫 How to reach me: contact me on Telegram: https://t.me/creative_007_O or email me at meliqoziyevotabek66@gmail.com
 
