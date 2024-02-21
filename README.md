@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Otabel and I'm a Software Engineer, from Uzbekistan</h2>
+<h2 align="left">Hi 👋! My name is Otabek and I'm a Software Engineer, from Uzbekistan</h2>
 
 ###
 
