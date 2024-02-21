@@ -34,7 +34,7 @@
 ###
 
 <div align="left">
-  <a href="http://linkedin.com/in/otabek-melikuziev-13a3aa275" target="_blank">
+  <a href="https://www.linkedin.com/in/mr-otabek-13a3aa275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="meliqoziyevotabek66@gmail.com" target="_blank">
@@ -56,11 +56,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/OtabekgithubJava/OtabekgithubJava/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=OtabekgithubJava" alt="Layout with last medium posts"  />
-</div>
 
 ###
