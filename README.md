@@ -84,17 +84,6 @@
   <br/>
  <br/>
 
- <h2 align="center">⚡️ Stats ⚡️</h2>
-
-<div align="center">
-    <!-- GitHub Stats -->
-    <a href="https://github.com/OtabekgithubJava/OtabekgithubJava">
-        <img src="https://github-readme-stats.vercel.app/api?username=OtabekgithubJava&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
-    </a>
-
-    <!-- LeetCode Stats -->
-    <img src="YOUR_LEETCODE_BADGE_URL" alt="LeetCode Stats" />//
-</div>
 
 
 ## 🏆 GitHub Trophies
