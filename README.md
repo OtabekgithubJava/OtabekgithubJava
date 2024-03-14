@@ -47,7 +47,10 @@
   </a>
 </div>
 
-<img src="https://leetcode-badge.chyroc.cn/?name=meliqoziyevotabek66&leetcode_badge_style=leetcode&refresh=true" />
+<!-- LeetCode Profile -->
+<a href="https://leetcode.com/meliqoziyevotabek66/">
+  <img src="https://leetcode-badge.chyroc.cn/?name=meliqoziyevotabek66&leetcode_badge_style=leetcode&refresh=true" />
+</a>
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/OtabekgithubJava/OtabekgithubJava/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/OtabekgithubJava/OtabekgithubJava/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
