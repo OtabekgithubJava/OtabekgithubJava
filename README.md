@@ -49,7 +49,7 @@
 
 <!-- LeetCode Profile -->
 <div align="center">
-  <a href="https://leetcode.com/meliqoziyevotabek66/">
+  <a href="https://leetcode.com/meliqoziyevotabek66/" target="_blank">
     <img src="https://raw.githubusercontent.com/acervenky/leetcode/master/assets/acbadge_s.png" alt="LeetCode Profile" />
   </a>
 </div>
