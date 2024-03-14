@@ -31,19 +31,19 @@
 <!-- Social Media Icons -->
 <div align="left">
   <a href="https://www.linkedin.com/in/mr-otabek-13a3aa275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://simpleicons.org/icons/linkedin.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:meliqoziyevotabek66@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://simpleicons.org/icons/gmail.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://t.me/Otabek_writing" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+    <img src="https://simpleicons.org/icons/telegram.svg" width="52" height="40" alt="telegram logo" />
   </a>
   <a href="https://www.instagram.com/m_otabek_007?igsh=MWVocjhsZnducDQ0aw==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+    <img src="https://simpleicons.org/icons/instagram.svg" width="52" height="40" alt="instagram logo" />
   </a>
   <a href="https://twitter.com/Otabek_twitting" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+    <img src="https://simpleicons.org/icons/twitter.svg" width="52" height="40" alt="twitter logo" />
   </a>
 </div>
 
