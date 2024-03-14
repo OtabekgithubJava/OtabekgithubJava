@@ -48,9 +48,13 @@
 </div>
 
 <!-- LeetCode Profile -->
-<a href="https://leetcode.com/meliqoziyevotabek66/">
-  <img src="https://raw.githubusercontent.com/acervenky/leetcode/master/assets/acbadge_s.png" alt="LeetCode Profile" />
-</a>
+<div align="center">
+  <a href="https://leetcode.com/meliqoziyevotabek66/">
+    <img src="https://raw.githubusercontent.com/acervenky/leetcode/master/assets/acbadge_s.png" alt="LeetCode Profile" />
+  </a>
+</div>
 
 <!-- Snake Animation -->
-<img src="https://github.com/OtabekgithubJava/OtabekgithubJava/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github.com/OtabekgithubJava/OtabekgithubJava/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
