@@ -47,9 +47,7 @@
   </a>
 </div>
 
+<img src="https://leetcode-badge.chyroc.cn/?name=meliqoziyevotabek66&leetcode_badge_style=leetcode&refresh=true" />
+
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/OtabekgithubJava/OtabekgithubJava/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-<!-- Links to Your Accounts -->
-<p>My Github account: <a href="https://github.com/OtabekgithubJava">OtabekgithubJava</a></p>
-<p>My LinkedIn account: <a href="https://www.linkedin.com/in/mr-otabek-13a3aa275">Mr. Otabek</a></p>
