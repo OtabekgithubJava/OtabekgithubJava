@@ -84,26 +84,19 @@
   <br/>
  <br/>
 
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OtabekgithubJava&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-###
+<h3 align="center">🐍 Contribution Snake 🐍</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OtabekgithubJava/OtabekgithubJava/output/github-contribution-grid-snake.svg" alt="Snake animation" style="background: #1d1f21; border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,255,255,0.7);">
 </div>
-  
-</div>
-<br/><br/>
+
 <hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message;+on+telegram+,+twitter+,+instagram+and+linkedin!;I'm+always+down+to+collab+🙂">
 </h3>
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/OtabekgithubJava/OtabekgithubJava/raw/main/snake.svg" alt="Snake animation" />
 
 ###
